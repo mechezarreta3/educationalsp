@@ -1,0 +1,54 @@
+[educationalsp]2025/02/11 22:55:16 main.go:16: Starting main...
+[educationalsp]2025/02/11 22:55:16 main.go:35: Received msg with method: initialize
+[educationalsp]2025/02/11 22:55:16 main.go:44: Connected to: Neovim 0.11.0-dev+g35247b00a4
+[educationalsp]2025/02/11 22:55:16 main.go:50: Sent the reply
+[educationalsp]2025/02/11 22:55:16 main.go:35: Received msg with method: initialized
+[educationalsp]2025/02/11 22:55:16 main.go:35: Received msg with method: textDocument/didOpen
+[educationalsp]2025/02/11 22:55:16 main.go:57: Opened to: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:55:31 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:55:31 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:55:31 main.go:35: Received msg with method: textDocument/completion
+[educationalsp]2025/02/11 22:55:31 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:55:31 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:55:32 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:55:32 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:55:32 main.go:35: Received msg with method: textDocument/completion
+[educationalsp]2025/02/11 22:55:53 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:55:53 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:55:56 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:55:56 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:55:59 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:55:59 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:55:59 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:55:59 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:55:59 main.go:35: Received msg with method: textDocument/completion
+[educationalsp]2025/02/11 22:55:59 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:55:59 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:55:59 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:55:59 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:00 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:56:00 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:00 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:56:00 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:00 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:56:00 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:01 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:56:01 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:01 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:56:01 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:01 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:56:01 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:02 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:56:02 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:03 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:56:03 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:03 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:56:03 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:03 main.go:35: Received msg with method: textDocument/completion
+[educationalsp]2025/02/11 22:56:03 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:56:03 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:04 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:56:04 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:04 main.go:35: Received msg with method: textDocument/didChange
+[educationalsp]2025/02/11 22:56:04 main.go:66: Changed: file:///home/wellackshually/lsp/educationalsp/README.md
+[educationalsp]2025/02/11 22:56:12 main.go:35: Received msg with method: shutdown
